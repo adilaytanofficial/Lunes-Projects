@@ -1,0 +1,40 @@
+﻿<Window x:Class="_3_WPF_MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Earnings and Spendings List Application on WPF" Height="350" Width="593.421" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        
+        <Label Content="Year :" HorizontalAlignment="Left" Margin="225,10,0,0" VerticalAlignment="Top"/>
+        <ComboBox SelectedIndex="0" HorizontalAlignment="Left" Margin="268,14,0,0" VerticalAlignment="Top" Width="126" Name="entryYear">
+            <ComboBoxItem Content="2019"/>
+        </ComboBox>
+        <Label Content="Month: " HorizontalAlignment="Left" Margin="399,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.289,1.538"/>
+        <ComboBox Name="monthCombo" SelectedIndex="1" HorizontalAlignment="Left" Margin="455,14,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="January"/>
+            <ComboBoxItem Content="February"/>
+            <ComboBoxItem Content="March"/>
+            <ComboBoxItem Content="April"/>
+            <ComboBoxItem Content="May"/>
+            <ComboBoxItem Content="June"/>
+            <ComboBoxItem Content="July"/>
+            <ComboBoxItem Content="August"/>
+            <ComboBoxItem Content="September"/>
+            <ComboBoxItem Content="October"/>
+            <ComboBoxItem Content="November"/>
+            <ComboBoxItem Content="December"/>
+        </ComboBox>
+
+        <ListBox Name="entryListBox" HorizontalAlignment="Left" Height="185" Margin="10,53,0,0" VerticalAlignment="Top" Width="565"/>
+        <Label Content="Entry Type :" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.763,-0.077"/>
+
+        <Button Name="deleteButton" Content="Delete" HorizontalAlignment="Left" Margin="516,252,0,0" VerticalAlignment="Top" Width="59" Height="44" Click="deleteButton_Click"/>
+        <Button Name="editButton" Content="Edit" HorizontalAlignment="Left" Margin="455,252,0,0" VerticalAlignment="Top" Width="56" Height="44" Click="editButton_Click"/>
+        <Button Content="Show the List" Name="showthelist" HorizontalAlignment="Left" Margin="305,252,0,0" VerticalAlignment="Top" Width="79" Height="44" Click="showthelist_Click"/>
+        <Button Name="add_button"  Content="Add" HorizontalAlignment="Left" Margin="390,252,0,0" VerticalAlignment="Top" Width="60" Height="44" Click="add_button_Click"/>
+        <ComboBox Name="entryCombo" SelectedIndex="0" HorizontalAlignment="Left" Margin="86,14,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="entryCombo_SelectionChanged">
+            <ComboBoxItem Content="Earnings"/>
+            <ComboBoxItem Content="Spendings"/>
+        </ComboBox>
+
+    </Grid>
+</Window>

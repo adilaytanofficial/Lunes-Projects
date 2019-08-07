@@ -1,0 +1,13 @@
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\bin\Release\3-WPF MVVM.exe.config
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\bin\Release\3-WPF MVVM.exe
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\bin\Release\3-WPF MVVM.pdb
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\MainWindow.baml
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\MainWindow.g.cs
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\App.g.cs
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\3-WPF MVVM_MarkupCompile.cache
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\3-WPF MVVM.g.resources
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\_3_WPF_MVVM.Properties.Resources.resources
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\_3_WPF_MVVM.Resource1.resources
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\3-WPF MVVM.csproj.GenerateResource.Cache
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\3-WPF MVVM.exe
+F:\Projeler\Lunes\3-WPF MVVM\3-WPF MVVM\obj\Release\3-WPF MVVM.pdb

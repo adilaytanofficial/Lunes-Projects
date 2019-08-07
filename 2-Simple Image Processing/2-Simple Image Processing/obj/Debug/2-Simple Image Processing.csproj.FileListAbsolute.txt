@@ -1,0 +1,18 @@
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\bin\Debug\2-Simple Image Processing.exe.config
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\bin\Debug\2-Simple Image Processing.exe
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\bin\Debug\2-Simple Image Processing.pdb
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\2-Simple Image Processing.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\_2_Simple_Image_Processing.Form1.resources
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\_2_Simple_Image_Processing.Properties.Resources.resources
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\2-Simple Image Processing.csproj.GenerateResource.Cache
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\2-Simple Image Processing.exe
+C:\Users\Gamer\Desktop\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\2-Simple Image Processing.pdb
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\bin\Debug\2-Simple Image Processing.exe.config
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\2-Simple Image Processing.exe
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\2-Simple Image Processing.pdb
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\bin\Debug\2-Simple Image Processing.exe
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\bin\Debug\2-Simple Image Processing.pdb
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\2-Simple Image Processing.csprojResolveAssemblyReference.cache
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\_2_Simple_Image_Processing.Form1.resources
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\_2_Simple_Image_Processing.Properties.Resources.resources
+F:\Projeler\Lunes\2-Simple Image Processing\2-Simple Image Processing\obj\Debug\2-Simple Image Processing.csproj.GenerateResource.Cache

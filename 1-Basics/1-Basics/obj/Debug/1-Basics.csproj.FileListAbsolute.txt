@@ -1,0 +1,12 @@
+C:\Users\Gamer\Desktop\1-Basics\1-Basics\bin\Debug\1-Basics.exe.config
+C:\Users\Gamer\Desktop\1-Basics\1-Basics\bin\Debug\1-Basics.exe
+C:\Users\Gamer\Desktop\1-Basics\1-Basics\bin\Debug\1-Basics.pdb
+C:\Users\Gamer\Desktop\1-Basics\1-Basics\obj\Debug\1-Basics.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\1-Basics\1-Basics\obj\Debug\1-Basics.exe
+C:\Users\Gamer\Desktop\1-Basics\1-Basics\obj\Debug\1-Basics.pdb
+F:\Projeler\Lunes\1-Basics\1-Basics\bin\Debug\1-Basics.exe.config
+F:\Projeler\Lunes\1-Basics\1-Basics\obj\Debug\1-Basics.exe
+F:\Projeler\Lunes\1-Basics\1-Basics\obj\Debug\1-Basics.pdb
+F:\Projeler\Lunes\1-Basics\1-Basics\bin\Debug\1-Basics.exe
+F:\Projeler\Lunes\1-Basics\1-Basics\bin\Debug\1-Basics.pdb
+F:\Projeler\Lunes\1-Basics\1-Basics\obj\Debug\1-Basics.csprojResolveAssemblyReference.cache
